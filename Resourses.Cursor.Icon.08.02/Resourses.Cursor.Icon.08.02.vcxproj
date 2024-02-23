@@ -137,7 +137,7 @@
     <ResourceCompile Include="Resourses.Cursor.Icon.08.02.rc" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Downloads\Cream Help.cur" />
+    <None Include="..\..\..\..\Downloads\busy.cur" />
     <None Include="..\..\..\..\Downloads\wib.cur" />
     <None Include="..\..\..\..\OneDrive\Робочий стіл\normal cursor.cur" />
     <None Include="..\..\..\..\OneDrive\Робочий стіл\wib.cur" />

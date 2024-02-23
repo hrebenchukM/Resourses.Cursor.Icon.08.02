@@ -39,10 +39,10 @@
     <None Include="..\..\..\..\OneDrive\Робочий стіл\normal cursor.cur">
       <Filter>Файлы ресурсов</Filter>
     </None>
-    <None Include="..\..\..\..\Downloads\Cream Help.cur">
+    <None Include="..\..\..\..\Downloads\wib.cur">
       <Filter>Файлы ресурсов</Filter>
     </None>
-    <None Include="..\..\..\..\Downloads\wib.cur">
+    <None Include="..\..\..\..\Downloads\busy.cur">
       <Filter>Файлы ресурсов</Filter>
     </None>
   </ItemGroup>
